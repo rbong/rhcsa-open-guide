@@ -1,3 +1,7 @@
+---
+title: RHCSA Open Guide: Getting Started
+---
+
 # Getting Started
 
 ## Usage
