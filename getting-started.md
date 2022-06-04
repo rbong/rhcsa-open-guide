@@ -1,10 +1,9 @@
 ---
+summary:
 title: RHCSA Open Guide: Getting Started
 ---
 
-# Getting Started
-
-## Usage
+# Usage
 
 This guide is meant for anyone with some Linux experience looking to fill any gaps in their knowledge to become a [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa).
 This guide is recommended for self-directed learners who like reading.
