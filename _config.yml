@@ -1,3 +1,11 @@
+aux_links:
+  "RHCSA Open Guide source":
+    - "//github.com/rbong/rhcsa-open-guide"
+back_to_top: true
+back_to_top_text: "Back to top"
+baseurl: /rhcsa-open-guide
 description: Open guide for RHCSA (EX200).
+footer_content: "Copyright &copy; 2022 Roger Bongers. Distributed by an <a href=\"https://github.com/rbong/rhcsa-open-guide/tree/master/LICENSE.txt\">MIT license.</a>"
 remote_theme: just-the-docs/just-the-docs
 title: RHCSA Open Guide
+url: https://rbong.github.io
