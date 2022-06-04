@@ -13,3 +13,5 @@ This guide is targetted towards [Red Hat Enterprise Linux](https://www.redhat.co
 which is the version of RHEL targetted by EX200 at the time of writing.
 
 This document is meant to be read through [GitHub Pages](http://rbong.github.io/rhcsa-open-guide).
+
+Next, see [Getting Started](/getting-started).
