@@ -1,6 +1,6 @@
 ---
+permalink: /
 title: RHCSA Open Guide
-url: /
 ---
 
 # About
