@@ -26,8 +26,8 @@ This is meant to be an alternative to the [training courses for RHCSA](https://w
 [RH124](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i) (Red Hat System Administration I),
 and [RH134](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i) (Red Hat System Administration II).
 
-This guide is targetted towards [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (RHEL) version 9,
-which is the version of RHEL targetted by EX200 at the time of writing.
+This guide is targeted towards [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (RHEL) version 9,
+which is the version of RHEL targeted by EX200 at the time of writing.
 Sometimes general Linux knowledge is included where useful.
 
 ## Intended Audience
