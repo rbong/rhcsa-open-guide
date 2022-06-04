@@ -32,6 +32,6 @@ Sometimes general Linux knowledge is included where useful.
 
 ## Intended Audience
 
-This guide is meant for anyone with some Linux experience looking to fill any gaps in their knowledge to become a [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa).
+This guide is meant for anyone with some Linux experience looking to fill any gaps in their knowledge to become a Red Hat Certified Systems Administrator.
 
 This guide is recommended for self-directed learners who like reading.
