@@ -5,7 +5,12 @@ title: Home
 ---
 
 # RHCSA Open Guide
+{: .no_toc }
 
+## Table of Contents
+{: .no_toc }
+
+* TOC
 {:toc}
 
 ---
