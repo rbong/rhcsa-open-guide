@@ -6,6 +6,10 @@ title: Home
 
 # RHCSA Open Guide
 
+{:toc}
+
+---
+
 ## About
 
 This is an open study guide for becoming a [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa) (RHCSA)
