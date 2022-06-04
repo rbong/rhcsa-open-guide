@@ -23,11 +23,10 @@ and [RH134](https://www.redhat.com/en/services/training/rh124-red-hat-system-adm
 
 This guide is targetted towards [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (RHEL) version 9,
 which is the version of RHEL targetted by EX200 at the time of writing.
+Sometimes general Linux knowledge is included where useful.
 
-## Usage
+## Intended Audience
 
 This guide is meant for anyone with some Linux experience looking to fill any gaps in their knowledge to become a [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa).
-This guide is recommended for self-directed learners who like reading.
 
-All information in this guide is targetted towards [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (RHEL) version 9 unless otherwise noted.
-Sometimes general Linux knowledge is included where useful.
+This guide is recommended for self-directed learners who like reading.
