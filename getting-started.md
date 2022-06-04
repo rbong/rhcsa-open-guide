@@ -1,5 +1,5 @@
 ---
-summary:
+description: ""
 title: RHCSA Open Guide: Getting Started
 ---
 
