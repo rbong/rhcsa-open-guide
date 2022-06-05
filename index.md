@@ -4,12 +4,14 @@ permalink: /
 title: Home
 ---
 
-<h1 class="no_toc">RHCSA Open Guide</h1>
+<p align="right">
+  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment/badge.svg" alt="pages-build-deployment"></a>
+  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/verify-html.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/verify-html.yml/badge.svg" alt="verify-html"></a>
+  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-files.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-files.yml/badge.svg" alt="lint-files"></a>
+  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-prose.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-prose.yml/badge.svg" alt="lint-prose"></a>
+</p>
 
-[![pages-build-deployment](https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment)
-[![check-html](https://github.com/rbong/rhcsa-open-guide/actions/workflows/check-html.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/check-html.yml)
-[![lint-files](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-files.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-files.yml)
-[![lint-prose](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-prose.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-prose.yml)
+<h1 class="no_toc">RHCSA Open Guide</h1>
 
 ## Table of contents
 
