@@ -1,9 +1,6 @@
 name: HTMLProofer
 on:
   - push
-branding:
-  icon: code
-  color: white
 jobs:
   verify:
     runs-on: ubuntu-latest
