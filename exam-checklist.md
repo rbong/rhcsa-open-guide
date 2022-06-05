@@ -47,71 +47,71 @@ This checklist is based on the [RH124 Course Outline](https://www.redhat.com/en/
 
 * [ ] Get started with Red Hat Enterprise Linux
 
-  * Describe and define open source, Linux distributions, and Red Hat Enterprise Linux.
+* Describe and define open source, Linux distributions, and Red Hat Enterprise Linux.
 
 * [ ] Access the command line
 
-  * Log into a Linux system and run simple commands using the shell.
+* Log into a Linux system and run simple commands using the shell.
 
 * [ ] Manage files from the command line
 
-  * Copy, move, create, delete, and organize files while working from the bash shell.
+* Copy, move, create, delete, and organize files while working from the bash shell.
 
 * [ ] Get help in Red Hat Enterprise Linux
 
-  * Resolve problems by using local help systems.
+* Resolve problems by using local help systems.
 
 * [ ] Create, view, and edit text files
 
-  * Manage text files from command output or in a text editor.
+* Manage text files from command output or in a text editor.
 
 * [ ] Manage local users and groups
 
-  * Create, manage, and delete local users and groups, as well as administer local password policies.
+* Create, manage, and delete local users and groups, as well as administer local password policies.
 
 * [ ] Control access to files
 
-  * Set Linux file system permissions on files and interpret the security effects of different permission settings.
+* Set Linux file system permissions on files and interpret the security effects of different permission settings.
 
 * [ ] Monitor and manage Linux processes
 
-  * Evaluate and control processes running on a Red Hat Enterprise Linux system.
+* Evaluate and control processes running on a Red Hat Enterprise Linux system.
 
 * [ ] Control services and daemons
 
-  * Control and monitor network services and system daemons using systemd.
+* Control and monitor network services and system daemons using systemd.
 
 * [ ] Configure and secure SSH
 
-  * Configure secure command line service on remote systems, using OpenSSH.
+* Configure secure command line service on remote systems, using OpenSSH.
 
 * [ ] Analyze and store logs
 
-  * Locate and accurately interpret logs of system events for troubleshooting purposes.
+* Locate and accurately interpret logs of system events for troubleshooting purposes.
 
 * [ ] Manage networking
 
-  * Configure network interfaces and settings on Red Hat Enterprise Linux servers.
+* Configure network interfaces and settings on Red Hat Enterprise Linux servers.
 
 * [ ] Archive and transfer files
 
-  * Archive and copy files from one system to another.
+* Archive and copy files from one system to another.
 
 * [ ] Install and update software packages
 
-  * Download, install, update, and manage software packages from Red Hat and yum package repositories.
+* Download, install, update, and manage software packages from Red Hat and yum package repositories.
 
 * [ ] Access Linux files systems
 
-  * Access, inspect, and use existing file systems on storage attached to a Linux server.
+* Access, inspect, and use existing file systems on storage attached to a Linux server.
 
 * [ ] Analyze servers and get support
 
-  * Investigate and resolve issues in the web-based management interface, getting support from Red Hat to help solve problems.
+* Investigate and resolve issues in the web-based management interface, getting support from Red Hat to help solve problems.
 
 * [ ] Comprehensive review
 
-  * Review the content covered in [RH124] by completing hands-on exercises.
+* Review the content covered in [RH124] by completing hands-on exercises.
 
 ### Red Hat System Administration II Checklist
 
@@ -119,43 +119,43 @@ This checklist is based on the [RH134 Course Outline](https://www.redhat.com/en/
 
 * [ ] Improve command line productivity
 
-  * Run commands more efficiently by using advanced features of the Bash shell, shell scripts, and various utilities provided by Red Hat Enterprise Linux.
+* Run commands more efficiently by using advanced features of the Bash shell, shell scripts, and various utilities provided by Red Hat Enterprise Linux.
 
 * [ ] Schedule future tasks
 
-  * Schedule commands to run in the future, either one time or on a repeating schedule.
+* Schedule commands to run in the future, either one time or on a repeating schedule.
 
 * [ ] Tune system performance
 
-  * Improve system performance by setting tuning parameters and adjusting scheduling priority of processes.
+* Improve system performance by setting tuning parameters and adjusting scheduling priority of processes.
 
 * [ ] Manage SELinux security
 
-  * Protect and manage the security of a server by using SELinux.
+* Protect and manage the security of a server by using SELinux.
 
 * [ ] Manage logical volumes
 
-  * Create and manage logical volumes containing file systems and swap spaces from the command line.
+* Create and manage logical volumes containing file systems and swap spaces from the command line.
 
 * [ ] Access network-attached storage
 
-  * Use the NFS protocol to administer network-attached storage.
+* Use the NFS protocol to administer network-attached storage.
 
 * [ ] Control the boot process
 
-  * Manage the boot process to control services offered and to troubleshoot and repair problems.
+* Manage the boot process to control services offered and to troubleshoot and repair problems.
 
 * [ ] Manage network security
 
-  * Control network connections to services using the system firewall and SELinux rules.
+* Control network connections to services using the system firewall and SELinux rules.
 
 * [ ] Install Red Hat Enterprise Linux
 
-  * Install Red Hat Enterprise Linux on servers and virtual machines.
+* Install Red Hat Enterprise Linux on servers and virtual machines.
 
 * [ ] Run Containers
 
-  * Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server.
+* Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server.
 
 ### Running Containers with Red Hat Technical Overview Checklist
 
@@ -188,156 +188,156 @@ Check off items once you feel you can meet this criteria.
 
 ### Understand and use essential tools
 
-  * [ ] Access a shell prompt and issue commands with correct syntax
+* [ ] Access a shell prompt and issue commands with correct syntax
 
-  * [ ] Use input-output redirection (`>`, `>>`, `|`, `2>`, etc.)
+* [ ] Use input-output redirection (`>`, `>>`, `|`, `2>`, etc.)
 
-  * [ ] Use grep and regular expressions to analyze text
+* [ ] Use grep and regular expressions to analyze text
 
-  * [ ] Access remote systems using SSH
+* [ ] Access remote systems using SSH
 
-  * [ ] Log in and switch users in multiuser targets
+* [ ] Log in and switch users in multiuser targets
 
-  * [ ] Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
+* [ ] Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 
-  * [ ] Create and edit text files
+* [ ] Create and edit text files
 
-  * [ ] Create, delete, copy, and move files and directories
+* [ ] Create, delete, copy, and move files and directories
 
-  * [ ] Create hard and soft links
+* [ ] Create hard and soft links
 
-  * [ ] List, set, and change standard ugo/rwx permissions
+* [ ] List, set, and change standard ugo/rwx permissions
 
-  * [ ] Locate, read, and use system documentation including man, info, and files in /usr/share/doc
+* [ ] Locate, read, and use system documentation including man, info, and files in /usr/share/doc
 
 ### Create simple shell scripts
 
-  * [ ] Conditionally execute code (use of: if, test, [], etc.)
+* [ ] Conditionally execute code (use of: if, test, [], etc.)
 
-  * [ ] Use Looping constructs (for, etc.) to process file, command line input
+* [ ] Use Looping constructs (for, etc.) to process file, command line input
 
-  * [ ] Process script inputs ($1, $2, etc.)
+* [ ] Process script inputs ($1, $2, etc.)
 
-  * [ ] Processing output of shell commands within a script
+* [ ] Processing output of shell commands within a script
 
 ### Operate running systems
 
-  * [ ] Boot, reboot, and shut down a system normally
+* [ ] Boot, reboot, and shut down a system normally
 
-  * [ ] Boot systems into different targets manually
+* [ ] Boot systems into different targets manually
 
-  * [ ] Interrupt the boot process in order to gain access to a system
+* [ ] Interrupt the boot process in order to gain access to a system
 
-  * [ ] Identify CPU/memory intensive processes and kill processes
+* [ ] Identify CPU/memory intensive processes and kill processes
 
-  * [ ] Adjust process scheduling
+* [ ] Adjust process scheduling
 
-  * [ ] Manage tuning profiles
+* [ ] Manage tuning profiles
 
-  * [ ] Locate and interpret system log files and journals
+* [ ] Locate and interpret system log files and journals
 
-  * [ ] Preserve system journals
+* [ ] Preserve system journals
 
-  * [ ] Start, stop, and check the status of network services
+* [ ] Start, stop, and check the status of network services
 
-  * [ ] Securely transfer files between systems
+* [ ] Securely transfer files between systems
 
 ### Configure local storage
 
-  * [ ] List, create, delete partitions on MBR and GPT disks
+* [ ] List, create, delete partitions on MBR and GPT disks
 
-  * [ ] Create and remove physical volumes
+* [ ] Create and remove physical volumes
 
-  * [ ] Assign physical volumes to volume groups
+* [ ] Assign physical volumes to volume groups
 
-  * [ ] Create and delete logical volumes
+* [ ] Create and delete logical volumes
 
-  * [ ] Configure systems to mount file systems at boot by universally unique ID (UUID) or label
+* [ ] Configure systems to mount file systems at boot by universally unique ID (UUID) or label
 
-  * [ ] Add new partitions and logical volumes, and swap to a system non-destructively
+* [ ] Add new partitions and logical volumes, and swap to a system non-destructively
 
 ### Create and configure file systems
 
-  * [ ] Create, mount, unmount, and use vfat, ext4, and xfs file systems
+* [ ] Create, mount, unmount, and use vfat, ext4, and xfs file systems
 
-  * [ ] Mount and unmount network file systems using NFS
+* [ ] Mount and unmount network file systems using NFS
 
-  * [ ] Configure autofs
+* [ ] Configure autofs
 
-  * [ ] Extend existing logical volumes
+* [ ] Extend existing logical volumes
 
-  * [ ] Create and configure set-GID directories for collaboration
+* [ ] Create and configure set-GID directories for collaboration
 
-  * [ ] Diagnose and correct file permission problems
+* [ ] Diagnose and correct file permission problems
 
 ### Deploy, configure, and maintain systems
 
-  * [ ] Schedule tasks using at and cron
+* [ ] Schedule tasks using at and cron
 
-  * [ ] Start and stop services and configure services to start automatically at boot
+* [ ] Start and stop services and configure services to start automatically at boot
 
-  * [ ] Configure systems to boot into a specific target automatically
+* [ ] Configure systems to boot into a specific target automatically
 
-  * [ ] Configure time service clients
+* [ ] Configure time service clients
 
-  * [ ] Install and update software packages from Red Hat Network, a remote repository, or from the local file system
+* [ ] Install and update software packages from Red Hat Network, a remote repository, or from the local file system
 
-  * [ ] Modify the system bootloader
+* [ ] Modify the system bootloader
 
 ### Manage basic networking
 
-  * [ ] Configure IPv4 and IPv6 addresses
+* [ ] Configure IPv4 and IPv6 addresses
 
-  * [ ] Configure hostname resolution
+* [ ] Configure hostname resolution
 
-  * [ ] Configure network services to start automatically at boot
+* [ ] Configure network services to start automatically at boot
 
-  * [ ] Restrict network access using firewall-cmd/firewall
+* [ ] Restrict network access using firewall-cmd/firewall
 
 ### Manage users and groups
 
-  * [ ] Create, delete, and modify local user accounts
+* [ ] Create, delete, and modify local user accounts
 
-  * [ ] Change passwords and adjust password aging for local user accounts
+* [ ] Change passwords and adjust password aging for local user accounts
 
-  * [ ] Create, delete, and modify local groups and group memberships
+* [ ] Create, delete, and modify local groups and group memberships
 
-  * [ ] Configure superuser access
+* [ ] Configure superuser access
 
 ### Manage security
 
-  * [ ] Configure firewall settings using firewall-cmd/firewalld
+* [ ] Configure firewall settings using firewall-cmd/firewalld
 
-  * [ ] Manage default file permissions
+* [ ] Manage default file permissions
 
-  * [ ] Configure key-based authentication for SSH
+* [ ] Configure key-based authentication for SSH
 
-  * [ ] Set enforcing and permissive modes for SELinux
+* [ ] Set enforcing and permissive modes for SELinux
 
-  * [ ] List and identify SELinux file and process context
+* [ ] List and identify SELinux file and process context
 
-  * [ ] Restore default file contexts
+* [ ] Restore default file contexts
 
-  * [ ] Manage SELinux port labels
+* [ ] Manage SELinux port labels
 
-  * [ ] Use boolean settings to modify system SELinux settings
+* [ ] Use boolean settings to modify system SELinux settings
 
-  * [ ] Diagnose and address routine SELinux policy violations
+* [ ] Diagnose and address routine SELinux policy violations
 
 ### Manage containers
 
-  * [ ] Find and retrieve container images from a remote registry
+* [ ] Find and retrieve container images from a remote registry
 
-  * [ ] Inspect container images
+* [ ] Inspect container images
 
-  * [ ] Perform container management using commands such as podman and skopeo
+* [ ] Perform container management using commands such as podman and skopeo
 
-  * [ ] Build a container from a Containerfile
+* [ ] Build a container from a Containerfile
 
-  * [ ] Perform basic container management such as running, starting, stopping, and listing running containers
+* [ ] Perform basic container management such as running, starting, stopping, and listing running containers
 
-  * [ ] Run a service inside a container
+* [ ] Run a service inside a container
 
-  * [ ] Configure a container to start automatically as a systemd service
+* [ ] Configure a container to start automatically as a systemd service
 
-  * [ ] Attach persistent storage to a container
+* [ ] Attach persistent storage to a container
