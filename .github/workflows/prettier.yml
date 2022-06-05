@@ -3,6 +3,7 @@ on:
   - push
 branding:
   icon: file-text
+  color: white
 jobs:
   lint:
     runs-on: ubuntu-latest
