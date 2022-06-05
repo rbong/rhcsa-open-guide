@@ -54,3 +54,7 @@ If you have significant RHEL experience already, you may wish to use the checkli
 You may optionally refer back to the checklist throughout this guide to find pages, questions, and exercises, and to track your progress.
 
 After finishing this guide, refer back to the checklist and ensure every item is checked off before proceeding to your exam.
+
+## Support
+
+If you like this guide, you can [support me on GitHub](https://github.com/sponsors/rbong).
