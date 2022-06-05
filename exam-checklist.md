@@ -31,7 +31,7 @@ Fill out items by placing an `X` next to them, for example:
 
 Commit your changes with [git add](https://git-scm.com/docs/git-add) and [git commit](https://git-scm.com/docs/git-commit).
 
-You should <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-with-the-github-cli" data-proofer-ignore>sync your local copy</a> often to keep it up to date.
+You should <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-from-the-command-line" data-proofer-ignore>sync your local copy</a> often to keep it up to date.
 If you have merge conflicts, see [basic merge conflicts](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#basic-merge-conflicts).
 
 Update the remote copy of your fork with [git push](https://git-scm.com/docs/git-push).
@@ -39,7 +39,7 @@ Update the remote copy of your fork with [git push](https://git-scm.com/docs/git
 ## Red Hat course content checklists
 
 The checklists in this section contain material in Red Hat courses with prerequisite knowledge for the RHCSA exam.
-This section is to help you make sure you have all knowledge from these courses.
+This section is to help you make sure you have learned the same information that's in these courses.
 
 Check off items once you feel you have learned this material.
 
