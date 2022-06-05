@@ -29,9 +29,9 @@ It has written lessons, exercises, questions, and other reading material.
 
 This guide is an alternative to the following [training courses for RHCSA certification](https://www.redhat.com/en/services/certification/rhcsa?pfe-zeueqhsom=training):
 
-- [RH065](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview) (Running Containers with Red Hat Technical Overview)
 - [RH124](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i) (Red Hat System Administration I)
 - [RH134](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i) (Red Hat System Administration II)
+- [RH065](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview) (Running Containers with Red Hat Technical Overview)
 
 This guide targets [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (RHEL) version 9,
 which is the version of RHEL targeted by EX200 at the time of writing.
