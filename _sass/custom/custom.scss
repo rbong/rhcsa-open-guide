@@ -11,3 +11,17 @@
     }
   }
 }
+
+$positions: absolute, relative, fixed, static, sticky;
+
+@each $position in $positions {
+  .position-#{position} {
+    position: #{position};
+  }
+}
+
+@for $i from 1 through 10 {
+  .z-#{$i * 100} {
+    z-index: #{$i * 100};
+  }
+}
