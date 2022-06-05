@@ -1,0 +1,15 @@
+{
+  "name": "rhcsa-open-guide",
+  "version": "1.0.0",
+  "description": "Open guide for RHCSA (EX200).",
+  "repository": "https://github.com/rbong/rhcsa-open-guide",
+  "author": "Roger Bongers <r.l.bongers@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --ignore-path .gitignore --write .",
+    "lint": "prettier --ignore-path .gitignore --check ."
+  },
+  "dependencies": {
+    "prettier": "^2.6.2"
+  }
+}

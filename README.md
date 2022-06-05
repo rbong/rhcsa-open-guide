@@ -10,8 +10,8 @@ This document is meant to be read through [GitHub Pages](http://rbong.github.io/
 
 **Prerequisites**
 
-* [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/).
-* [Install Bundler](https://bundler.io/).
+- [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/).
+- [Install Bundler](https://bundler.io/).
 
 **Installing Packages**
 
@@ -39,4 +39,29 @@ After building:
 
 ```sh
 bundle exec htmlproofer --assume-extension ./_site
+```
+
+## Linting
+
+**Prerequisites**
+
+- [Install Node 16](https://nodejs.org/en/download/).
+- [Install Yarn v1](https://classic.yarnpkg.com/lang/en/docs/install).
+
+**Installing Packages**
+
+```sh
+yarn install
+```
+
+**Linting**
+
+```sh
+yarn lint
+```
+
+**Formatting**
+
+```sh
+yarn format
 ```
