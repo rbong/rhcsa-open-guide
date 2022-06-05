@@ -19,16 +19,24 @@ This document is meant to be read through [GitHub Pages](http://rbong.github.io/
 bundle install
 ```
 
-**Build**
+**Build Once**
 
 ```sh
 bundle exec jekyll build
 ```
 
-**Preview**
+**Build Continuously**
 
 ```sh
 bundle exec jekyll serve
 ```
 
-Preview changes at `localhost:4000/rhcsa-open-guide` in your browser.
+View the site at `localhost:4000/rhcsa-open-guide` in your browser.
+
+**Verify Links**
+
+After building:
+
+```sh
+bundle exec htmlproofer --assume-extension ./_site
+```
