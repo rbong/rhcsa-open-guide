@@ -13,5 +13,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.0"
+      - name: Install
+        run: bundle install
       - name: Check HTML
         run: bundle exec htmlproofer --assume-extension ./_site
