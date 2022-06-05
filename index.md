@@ -47,9 +47,9 @@ The checklist refers to documentation from Red Hat.
 Where possible, this guide preserves the order and wording used in Red Hat documentation, however it prioritizes structuring content in a self-contained logical way.
 
 It is recommended that before starting, you review the checklist once.
-If you have significant RHEL experience already, you may wish to use the checklist to find and focus on only the pages, exercises, and questions which you need.
+If you have significant RHEL experience already, you may wish to use the checklist to find and focus on only the content which you need.
 
-You may optionally refer back to the checklist throughout this guide to find pages, questions, and exercises, and to track your progress.
+You may optionally refer back to the checklist throughout this guide to find content, and to track your progress.
 
 After finishing this guide, refer back to the checklist and ensure every item is checked off before proceeding to your exam.
 
