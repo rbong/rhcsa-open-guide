@@ -38,7 +38,7 @@ bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
-View the site at `localhost:4000/rhcsa-open-guide` in your browser.
+View the site at `localhost:4000/rhcsa-open-guide/` in your browser.
 
 **Verify Links**
 
