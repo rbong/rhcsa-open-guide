@@ -15,8 +15,8 @@
 $positions: absolute, relative, fixed, static, sticky;
 
 @each $position in $positions {
-  .position-#{position} {
-    position: #{position};
+  .position-#{$position} {
+    position: #{$position};
   }
 }
 
