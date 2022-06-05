@@ -35,7 +35,7 @@ It is recommended that you [sync your fork](https://docs.github.com/en/pull-requ
 
 ## Red Hat Course Content Checklists
 
-The checklists in this section contains material in Red Hat courses with prerequisite knowledge for the RHCSA exam.
+The checklists in this section contain material in Red Hat courses with prerequisite knowledge for the RHCSA exam.
 
 This section is to help you make sure you have learned all of the prerequisite knowledge.
 
