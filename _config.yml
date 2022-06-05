@@ -7,6 +7,7 @@ baseurl: /rhcsa-open-guide
 color_scheme: rhcsa
 description: Open guide for RHCSA (EX200).
 exclude:
+  - node_modules
   - docs
   - README.md
   - CODE_OF_CONDUCT.md
