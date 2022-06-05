@@ -4,9 +4,7 @@ permalink: /exam-checklist
 title: Exam checklist
 ---
 
-# Exam checklist
-
-{: .no_toc }
+<h1 class="no_toc">Exam checklist</h1>
 
 ## Table of contents
 

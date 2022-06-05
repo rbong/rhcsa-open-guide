@@ -4,9 +4,7 @@ permalink: /
 title: Home
 ---
 
-# RHCSA Open Guide
-
-{: .no_toc }
+<h1 class="no_toc">RHCSA Open Guide</h1>
 
 [![pages-build-deployment](https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment)
 [![check-html](https://github.com/rbong/rhcsa-open-guide/actions/workflows/check-html.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/check-html.yml)
