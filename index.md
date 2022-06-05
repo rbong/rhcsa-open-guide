@@ -12,8 +12,9 @@ title: Home
 
 {: .no_toc }
 
+<!-- prettier-ignore -->
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
