@@ -47,71 +47,105 @@ This checklist is based on the [RH124 Course Outline](https://www.redhat.com/en/
 
 * [ ] Get started with Red Hat Enterprise Linux
 
-* Describe and define open source, Linux distributions, and Red Hat Enterprise Linux.
+<ul class="pl-10">
+  <li>Describe and define open source, Linux distributions, and Red Hat Enterprise Linux.</li>
+</ul>
 
 * [ ] Access the command line
 
-* Log into a Linux system and run simple commands using the shell.
+<ul class="pl-10">
+  <li>Log into a Linux system and run simple commands using the shell.</li>
+</ul>
 
 * [ ] Manage files from the command line
 
-* Copy, move, create, delete, and organize files while working from the bash shell.
+<ul class="pl-10">
+  <li>Copy, move, create, delete, and organize files while working from the bash shell.</li>
+</ul>
 
 * [ ] Get help in Red Hat Enterprise Linux
 
-* Resolve problems by using local help systems.
+<ul class="pl-10">
+  <li>Resolve problems by using local help systems.</li>
+</ul>
 
 * [ ] Create, view, and edit text files
 
-* Manage text files from command output or in a text editor.
+<ul class="pl-10">
+  <li>Manage text files from command output or in a text editor.</li>
+</ul>
 
 * [ ] Manage local users and groups
 
-* Create, manage, and delete local users and groups, as well as administer local password policies.
+<ul class="pl-10">
+  <li>Create, manage, and delete local users and groups, as well as administer local password policies.</li>
+</ul>
 
 * [ ] Control access to files
 
-* Set Linux file system permissions on files and interpret the security effects of different permission settings.
+<ul class="pl-10">
+  <li>Set Linux file system permissions on files and interpret the security effects of different permission settings.</li>
+</ul>
 
 * [ ] Monitor and manage Linux processes
 
-* Evaluate and control processes running on a Red Hat Enterprise Linux system.
+<ul class="pl-10">
+  <li>Evaluate and control processes running on a Red Hat Enterprise Linux system.</li>
+</ul>
 
 * [ ] Control services and daemons
 
-* Control and monitor network services and system daemons using systemd.
+<ul class="pl-10">
+  <li>Control and monitor network services and system daemons using systemd.</li>
+</ul>
 
 * [ ] Configure and secure SSH
 
-* Configure secure command line service on remote systems, using OpenSSH.
+<ul class="pl-10">
+  <li>Configure secure command line service on remote systems, using OpenSSH.</li>
+</ul>
 
 * [ ] Analyze and store logs
 
-* Locate and accurately interpret logs of system events for troubleshooting purposes.
+<ul class="pl-10">
+  <li>Locate and accurately interpret logs of system events for troubleshooting purposes.</li>
+</ul>
 
 * [ ] Manage networking
 
-* Configure network interfaces and settings on Red Hat Enterprise Linux servers.
+<ul class="pl-10">
+  <li>Configure network interfaces and settings on Red Hat Enterprise Linux servers.</li>
+</ul>
 
 * [ ] Archive and transfer files
 
-* Archive and copy files from one system to another.
+<ul class="pl-10">
+  <li>Archive and copy files from one system to another.</li>
+</ul>
 
 * [ ] Install and update software packages
 
-* Download, install, update, and manage software packages from Red Hat and yum package repositories.
+<ul class="pl-10">
+  <li>Download, install, update, and manage software packages from Red Hat and yum package repositories.</li>
+</ul>
 
 * [ ] Access Linux files systems
 
-* Access, inspect, and use existing file systems on storage attached to a Linux server.
+<ul class="pl-10">
+  <li>Access, inspect, and use existing file systems on storage attached to a Linux server.</li>
+</ul>
 
 * [ ] Analyze servers and get support
 
-* Investigate and resolve issues in the web-based management interface, getting support from Red Hat to help solve problems.
+<ul class="pl-10">
+  <li>Investigate and resolve issues in the web-based management interface, getting support from Red Hat to help solve problems.</li>
+</ul>
 
 * [ ] Comprehensive review
 
-* Review the content covered in [RH124] by completing hands-on exercises.
+<ul class="pl-10">
+  <li>Review the content covered in [RH124] by completing hands-on exercises.</li>
+</ul>
 
 ### Red Hat System Administration II Checklist
 
@@ -119,43 +153,63 @@ This checklist is based on the [RH134 Course Outline](https://www.redhat.com/en/
 
 * [ ] Improve command line productivity
 
-* Run commands more efficiently by using advanced features of the Bash shell, shell scripts, and various utilities provided by Red Hat Enterprise Linux.
+<ul class="pl-10">
+  <li>Run commands more efficiently by using advanced features of the Bash shell, shell scripts, and various utilities provided by Red Hat Enterprise Linux.</li>
+</ul>
 
 * [ ] Schedule future tasks
 
-* Schedule commands to run in the future, either one time or on a repeating schedule.
+<ul class="pl-10">
+  <li>Schedule commands to run in the future, either one time or on a repeating schedule.</li>
+</ul>
 
 * [ ] Tune system performance
 
-* Improve system performance by setting tuning parameters and adjusting scheduling priority of processes.
+<ul class="pl-10">
+  <li>Improve system performance by setting tuning parameters and adjusting scheduling priority of processes.</li>
+</ul>
 
 * [ ] Manage SELinux security
 
-* Protect and manage the security of a server by using SELinux.
+<ul class="pl-10">
+  <li>Protect and manage the security of a server by using SELinux.</li>
+</ul>
 
 * [ ] Manage logical volumes
 
-* Create and manage logical volumes containing file systems and swap spaces from the command line.
+<ul class="pl-10">
+  <li>Create and manage logical volumes containing file systems and swap spaces from the command line.</li>
+</ul>
 
 * [ ] Access network-attached storage
 
-* Use the NFS protocol to administer network-attached storage.
+<ul class="pl-10">
+  <li>Use the NFS protocol to administer network-attached storage.</li>
+</ul>
 
 * [ ] Control the boot process
 
-* Manage the boot process to control services offered and to troubleshoot and repair problems.
+<ul class="pl-10">
+  <li>Manage the boot process to control services offered and to troubleshoot and repair problems.</li>
+</ul>
 
 * [ ] Manage network security
 
-* Control network connections to services using the system firewall and SELinux rules.
+<ul class="pl-10">
+  <li>Control network connections to services using the system firewall and SELinux rules.</li>
+</ul>
 
 * [ ] Install Red Hat Enterprise Linux
 
-* Install Red Hat Enterprise Linux on servers and virtual machines.
+<ul class="pl-10">
+  <li>Install Red Hat Enterprise Linux on servers and virtual machines.</li>
+</ul>
 
 * [ ] Run Containers
 
-* Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server.
+<ul class="pl-10">
+  <li>Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server.</li>
+</ul>
 
 ### Running Containers with Red Hat Technical Overview Checklist
 
