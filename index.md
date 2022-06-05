@@ -51,19 +51,19 @@ This guide is for self-directed learners who like reading.
 
 ### Exam checklist
 
-This guide has an [Exam Checklist](exam-checklist).
+This guide has an [exam checklist](exam-checklist).
 The checklist is a good way to verify you're ready for the exam.
 It's also an index of guide content.
 
 The checklist refers to documentation from Red Hat.
 Where possible, this guide preserves the order and wording used in Red Hat documentation, but it prioritizes structuring content in a self-contained logical way.
 
-It's recommended that before starting, you review the checklist once.
+It's recommended that before starting, you [review the checklist once](exam-checklist).
 If you have significant RHEL experience already, you can optionally use the checklist to find and focus on only the content which you need.
 
-You can optionally refer back to the checklist throughout this guide to find content, and to track your progress.
+You can optionally [refer back to the checklist throughout this guide](exam-checklist) to find content, and to track your progress.
 
-After finishing this guide, refer back to the checklist and make sure to check off every item before proceeding to your exam.
+After finishing this guide, [refer back to the checklist](exam-checklist) and make sure to check off every item before proceeding to your exam.
 
 ## Support
 
