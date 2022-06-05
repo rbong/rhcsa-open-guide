@@ -1,5 +1,10 @@
 # RHCSA Open Guide
 
+[![pages-build-deployment](https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment)
+[![check-html](https://github.com/rbong/rhcsa-open-guide/actions/workflows/check-html.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/check-html.yml)
+[![lint-files](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-files.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-files.yml)
+[![lint-prose](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-prose.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-prose.yml)
+
 This is an open study guide for becoming a [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa) (RHCSA)
 by passing the [EX200 exam from Red Hat](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam).
 It includes written guides, exercises, and other reading material.
