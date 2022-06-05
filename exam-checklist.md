@@ -36,7 +36,6 @@ It is recommended that you [sync your fork](https://docs.github.com/en/pull-requ
 ## Red Hat Course Content Checklists
 
 The checklists in this section contain material in Red Hat courses with prerequisite knowledge for the RHCSA exam.
-
 This section is to help you make sure you have learned all of the prerequisite knowledge.
 
 Check off items once you feel you have learned this material.
@@ -232,8 +231,7 @@ This checklist is based on the [RH065 Course Content Summary](https://www.redhat
 ## Red Hate Certified System Administrator Exam Study Points Checklist
 
 This checklist is based on the [EX200 Study Points](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=Objectives).
-
-This section is to help you make sure you have sufficiently studied all of these items.
+This section is to help you make sure you have sufficiently studied.
 
 For the exam, you must be able to complete all of the tasks below without assistance.
 Configurations must persist after reboot without intervention.
