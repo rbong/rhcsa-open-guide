@@ -15,7 +15,7 @@ title: Exam Checklist
 
 ---
 
-## Red Hat Course Content
+## Red Hat Course Content Checklists
 
 The checklists in this section contains material in Red Hat courses with prerequisite knowledge for the RHCSA exam.
 
@@ -23,7 +23,7 @@ This section is to help you make sure you have learned all of the prerequisite k
 
 Check off items once you feel you have learned this material.
 
-### Red Hat System Administration I
+### Red Hat System Administration I Checklist
 
 This checklist is based on the [RH124 Course Outline](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i?section=Outline).
 
@@ -62,7 +62,7 @@ This checklist is based on the [RH124 Course Outline](https://www.redhat.com/en/
 * [ ] Comprehensive review
   * Review the content covered in [RH124] by completing hands-on exercises.
 
-### Red Hat System Administration II
+### Red Hat System Administration II Checklist
 
 This checklist is based on the [RH134 Course Outline](https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii?section=Outline).
 
@@ -87,7 +87,7 @@ This checklist is based on the [RH134 Course Outline](https://www.redhat.com/en/
 * [ ] Run Containers
   * Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server.
 
-### Running Containers with Red Hat Technical Overview
+### Running Containers with Red Hat Technical Overview Checklist
 
 This checklist is based on the [RH065 Course Content Summary](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=Overview).
 
@@ -99,7 +99,7 @@ This checklist is based on the [RH065 Course Content Summary](https://www.redhat
 * [ ] Provide persistent storage for container data by mounting a directory from the container host inside a running container.
 * [ ] Start, stop, and check the status of a container as a system service.
 
-## Red Hate Certified System Administrator Exam Study Points
+## Red Hate Certified System Administrator Exam Study Points Checklist
 
 This checklist is based on the [EX200 Study Points](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=Objectives).
 
