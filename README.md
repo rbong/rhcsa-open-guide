@@ -13,7 +13,11 @@ This is an open study guide for becoming a [Red Hat Certified Systems Administra
 by passing the [EX200 exam from Red Hat](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam).
 It has written lessons, exercises, and other reading material.
 
+You can [read it here](http://rbong.github.io/rhcsa-open-guide).
+
 ## Building
+
+### Building the site
 
 **Prerequisites**
 
@@ -48,7 +52,7 @@ After building:
 bundle exec htmlproofer --assume-extension ./_site
 ```
 
-## Linting files
+### Linting files
 
 **Prerequisites**
 
@@ -73,7 +77,7 @@ yarn lint
 yarn format
 ```
 
-## Linting prose
+### Linting prose
 
 **Prerequisites**
 
