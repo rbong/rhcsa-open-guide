@@ -1,4 +1,4 @@
-name: lint-prose
+name: Vale
 on:
   - push
 jobs:
@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Check prose
+      - name: Vale
         uses: errata-ai/vale-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
