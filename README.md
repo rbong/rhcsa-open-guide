@@ -24,19 +24,19 @@ You can [read it here](http://rbong.github.io/rhcsa-open-guide).
 - [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/).
 - [Install Bundler](https://bundler.io/).
 
-**Installing Packages**
+**Installing packages**
 
 ```sh
 bundle install
 ```
 
-**Build Once**
+**Build once**
 
 ```sh
 bundle exec jekyll build
 ```
 
-**Build Continuously**
+**Build continuously**
 
 ```sh
 bundle exec jekyll serve
@@ -44,7 +44,7 @@ bundle exec jekyll serve
 
 View the site at `localhost:4000/rhcsa-open-guide/` in your browser.
 
-**Verify Links**
+**Verify links**
 
 After building:
 
@@ -59,7 +59,7 @@ bundle exec htmlproofer --assume-extension ./_site
 - [Install Node 16](https://nodejs.org/en/download/).
 - [Install Yarn v1](https://classic.yarnpkg.com/lang/en/docs/install).
 
-**Installing Packages**
+**Installing packages**
 
 ```sh
 yarn install
