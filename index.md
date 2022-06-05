@@ -52,8 +52,8 @@ This guide is for self-directed learners who like reading.
 ### Exam checklist
 
 This guide has an [Exam Checklist](exam-checklist).
-This checklist is a way to verify you're ready for the exam.
-It also is an index of guide content.
+The checklist is a good way to verify you're ready for the exam.
+It's also an index of guide content.
 
 The checklist refers to documentation from Red Hat.
 Where possible, this guide preserves the order and wording used in Red Hat documentation, but it prioritizes structuring content in a self-contained logical way.
