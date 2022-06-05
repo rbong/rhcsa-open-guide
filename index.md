@@ -19,9 +19,9 @@ title: Home
 
 This is an open study guide for becoming a [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa) (RHCSA)
 by passing the [EX200 exam from Red Hat](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam).
-It includes written guides, exercises, and links to additional reading material.
+It includes written lessons, exercises, questions, and additional reading material.
 
-This is meant to be an alternative to the [training courses for RHCSA](https://www.redhat.com/en/services/certification/rhcsa?pfe-zeueqhsom=training), namely
+This is meant to be an alternative to the [training courses for RHCSA certification](https://www.redhat.com/en/services/certification/rhcsa?pfe-zeueqhsom=training), namely
 [RH065](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview) (Running Containers with Red Hat Technical Overview),
 [RH124](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i) (Red Hat System Administration I),
 and [RH134](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i) (Red Hat System Administration II).
@@ -29,6 +29,8 @@ and [RH134](https://www.redhat.com/en/services/training/rh124-red-hat-system-adm
 This guide is targeted towards [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (RHEL) version 9,
 which is the version of RHEL targeted by EX200 at the time of writing.
 Sometimes general Linux knowledge is included where useful.
+
+This guide has no express guarantee that you will pass any exam.
 
 ## Intended Audience
 
