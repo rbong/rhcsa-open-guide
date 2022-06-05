@@ -6,8 +6,8 @@
   "author": "Roger Bongers <r.l.bongers@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "format": "prettier --ignore-path .gitignore --write .",
-    "lint": "prettier --ignore-path .gitignore --check ."
+    "format": "prettier --write .",
+    "lint": "prettier --check ."
   },
   "dependencies": {
     "prettier": "^2.6.2"

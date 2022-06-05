@@ -1,10 +1,10 @@
-# RHCSA Open Guide
+# RHCSA open guide
 
 This is an open study guide for becoming a [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa) (RHCSA)
 by passing the [EX200 exam from Red Hat](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam).
-It includes written guides, exercises, and links to additional reading material.
+It includes written guides, exercises, and other reading material.
 
-This document is meant to be read through [GitHub Pages](http://rbong.github.io/rhcsa-open-guide).
+Read this guide on [GitHub Pages](http://rbong.github.io/rhcsa-open-guide).
 
 ## Building
 
@@ -41,7 +41,7 @@ After building:
 bundle exec htmlproofer --assume-extension ./_site
 ```
 
-## Linting
+## Linting files
 
 **Prerequisites**
 
@@ -64,4 +64,16 @@ yarn lint
 
 ```sh
 yarn format
+```
+
+## Linting prose
+
+**Prerequisites**
+
+- [Install Vale](https://vale.sh/docs/vale-cli/installation/).
+
+**Linting**
+
+```sh
+vale .
 ```

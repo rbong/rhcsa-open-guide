@@ -1,14 +1,14 @@
 ---
 nav_order: 2
 permalink: /exam-checklist
-title: Exam Checklist
+title: Exam checklist
 ---
 
-# Exam Checklist
+# Exam checklist
 
 {: .no_toc }
 
-## Table of Contents
+## Table of contents
 
 {: .no_toc }
 
@@ -17,10 +17,10 @@ title: Exam Checklist
 
 ---
 
-## Using This Checklist
+## Using this checklist
 
 To check off items on the checklist, [log in to GitHub](https://github.com/login) and [fork this guide](https://github.com/rbong/rhcsa-open-guide/fork).
-Then, you may edit the checklist at the following URL, replacing `<username>` with your username:
+Then, you may edit the checklist at the following location, replacing `<username>` with your username:
 
 ```
 https://github.com/<username>/rhcsa-open-guide/edit/master/exam-checklist.md
@@ -33,18 +33,24 @@ You may fill out items by placing an `X` next to them, for example:
 * [ ] Incomplete item
 ```
 
-It is recommended that you <a href="docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork" data-proofer-ignore>sync your fork</a> regularly to keep it up to date.
+It's recommended that you <a href="docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork" data-proofer-ignore>sync your fork</a> often to keep it up to date.
 
-## Red Hat Course Content Checklists
+## Red Hat course content checklists
 
 The checklists in this section contain material in Red Hat courses with prerequisite knowledge for the RHCSA exam.
-This section is to help you make sure you have learned all of the prerequisite knowledge.
+This section is to help you make sure you have learned all prerequisite knowledge.
 
 Check off items once you feel you have learned this material.
 
-### Red Hat System Administration I Checklist
+<!-- vale Microsoft.FirstPerson = NO -->
 
-This checklist is based on the [RH124 Course Outline](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i?section=Outline).
+### Red Hat System Administration I checklist
+
+<!-- vale Microsoft.FirstPerson = YES -->
+
+This checklist is from the [RH124 Course Outline](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i?section=Outline).
+
+<!-- vale off -->
 
 - [ ] Get started with Red Hat Enterprise Linux
 
@@ -148,9 +154,17 @@ This checklist is based on the [RH124 Course Outline](https://www.redhat.com/en/
   <li>Review the content covered in [RH124] by completing hands-on exercises.</li>
 </ul>
 
-### Red Hat System Administration II Checklist
+<!-- vale on -->
 
-This checklist is based on the [RH134 Course Outline](https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii?section=Outline).
+<!-- vale Microsoft.HeadingAcronyms = NO -->
+
+### Red Hat System Administration II checklist
+
+<!-- vale Microsoft.HeadingAcronyms = YES -->
+
+This checklist is from the [RH134 Course Outline](https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii?section=Outline).
+
+<!-- vale off -->
 
 - [ ] Improve command line productivity
 
@@ -212,9 +226,13 @@ This checklist is based on the [RH134 Course Outline](https://www.redhat.com/en/
   <li>Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server.</li>
 </ul>
 
-### Running Containers with Red Hat Technical Overview Checklist
+<!-- vale on -->
 
-This checklist is based on the [RH065 Course Content Summary](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=Overview).
+### Running Containers with Red Hat Technical Overview checklist
+
+This checklist is from the [RH065 Course Content Summary](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=Overview).
+
+<!-- vale off -->
 
 - [ ] Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server.
 
@@ -230,15 +248,19 @@ This checklist is based on the [RH065 Course Content Summary](https://www.redhat
 
 - [ ] Start, stop, and check the status of a container as a system service.
 
-## Red Hate Certified System Administrator Exam Study Points Checklist
+<!-- vale on -->
 
-This checklist is based on the [EX200 Study Points](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=Objectives).
+## Red Hat Certified System Administrator exam study points checklist
+
+This checklist is from the [EX200 Study Points](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=Objectives).
 This section is to help you make sure you have sufficiently studied.
 
-For the exam, you must be able to complete all of the tasks below without assistance.
+For the exam, you must be able to complete all the tasks below without help.
 Configurations must persist after reboot without intervention.
 
 Check off items once you feel you can meet this criteria.
+
+<!-- vale off -->
 
 ### Understand and use essential tools
 
@@ -395,3 +417,5 @@ Check off items once you feel you can meet this criteria.
 - [ ] Configure a container to start automatically as a systemd service
 
 - [ ] Attach persistent storage to a container
+
+<!-- vale on -->
