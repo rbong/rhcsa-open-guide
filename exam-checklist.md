@@ -6,9 +6,7 @@ title: Exam checklist
 
 <h1 class="no_toc">Exam checklist</h1>
 
-## Table of contents
-
-{: .no_toc }
+<h2 class="no_toc">Table of contents</h2>
 
 <!-- prettier-ignore -->
 - TOC

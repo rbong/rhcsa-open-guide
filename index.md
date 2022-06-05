@@ -12,9 +12,7 @@ title: Home
 
 <h1 class="no_toc">RHCSA Open Guide</h1>
 
-## Table of contents
-
-{: .no_toc }
+<h2 class="no_toc">Table of contents</h2>
 
 <!-- prettier-ignore -->
 - TOC
