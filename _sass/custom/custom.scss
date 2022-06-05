@@ -1,0 +1,13 @@
+@each $media-query in map-keys($media-queries) {
+  @for $i from 1 through length($spacers) {
+    @include mq($media-query) {
+      .float-#{$media-query}-left {
+        float: left !important;
+      }
+
+      .float-#{$media-query}-right {
+        float: right !important;
+      }
+    }
+  }
+}
