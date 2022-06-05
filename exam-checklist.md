@@ -16,13 +16,12 @@ title: Exam checklist
 
 ## Using this checklist
 
-To check off items on the checklist, [log in to GitHub](https://github.com/login) and [fork this guide](https://github.com/rbong/rhcsa-open-guide/fork).
-Then, edit the checklist at the following location after replacing `<username>` with your username:
+To check off items on the checklist, [log in to GitHub](https://github.com/login),
+[fork this guide](https://github.com/rbong/rhcsa-open-guide/fork),
+and <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository" data-proofer-ignore>clone your fork</a>.
 
-```
-https://github.com/<username>/rhcsa-open-guide/edit/master/exam-checklist.md
-```
-
+This checklist is in the file `exam-checklist.md`.
+You can edit the checklist in an editor of your choice.
 Fill out items by placing an `X` next to them, for example:
 
 ```
@@ -30,7 +29,12 @@ Fill out items by placing an `X` next to them, for example:
 * [ ] Incomplete item
 ```
 
-You should <a href="docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork" data-proofer-ignore>sync your fork</a> often to keep it up to date.
+Commit your changes with [git add](https://git-scm.com/docs/git-add) and [git commit](https://git-scm.com/docs/git-commit).
+
+You should <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-with-the-github-cli" data-proofer-ignore>sync your local copy</a> often to keep it up to date.
+If you have merge conflicts, see [basic merge conflicts](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#basic-merge-conflicts).
+
+Update the remote copy of your fork with [git push](https://git-scm.com/docs/git-push).
 
 ## Red Hat course content checklists
 
