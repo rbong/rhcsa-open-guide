@@ -1,5 +1,8 @@
 ## Building
 
+This documentation is for building the guide locally.
+You can instead [read the current guide here](https://rbong.github.io/rhcsa-open-guide/).
+
 ### Building the site
 
 **Prerequisites**
