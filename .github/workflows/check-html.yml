@@ -2,18 +2,17 @@ name: check-html
 on:
   - push
 jobs:
-  lint:
+  check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        name: Checkout
-      - uses: actions/jekyll-build-pages@v1
-        name: Build page with Jekkyl
+      - name: Checkout
+        uses: actions/checkout@v2
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.0"
-      - name: Install
-        run: bundle install
+          bundler-cache: true
+      - name: Build
+        run: bundle exec jekyll build
       - name: Check HTML
         run: bundle exec htmlproofer --assume-extension ./_site
