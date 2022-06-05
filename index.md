@@ -39,7 +39,7 @@ This guide targets [Red Hat Enterprise Linux](https://www.redhat.com/en/technolo
 which is the version of RHEL targeted by EX200 at the time of writing.
 This guide sometimes includes general Linux knowledge.
 
-This guide has no express guarantee that you will pass any exam.
+This guide doesn't guarantee that you will pass any exam.
 
 ## Intended audience
 
