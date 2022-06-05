@@ -5,3 +5,30 @@ by passing the [EX200 exam from Red Hat](https://www.redhat.com/en/services/trai
 It includes written guides, exercises, and links to additional reading material.
 
 This document is meant to be read through [GitHub Pages](http://rbong.github.io/rhcsa-open-guide).
+
+## Building
+
+**Prerequisites**
+
+* [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/).
+* [Install Bundler](https://bundler.io/).
+
+**Installing Packages**
+
+```sh
+bundle install
+```
+
+**Build**
+
+```sh
+bundle exec jekyll build
+```
+
+**Preview**
+
+```sh
+bundle exec jekyll serve
+```
+
+Preview changes at `localhost:4000/rhcsa-open-guide` in your browser.
