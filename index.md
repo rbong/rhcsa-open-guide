@@ -4,7 +4,7 @@ permalink: /
 title: Home
 ---
 
-<p class="float-right">
+<p align="right" class="float-sm-right">
   <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/htmlproofer.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/htmlproofer.yml/badge.svg?branch=master" alt="HTMLProofer"></a>
   <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/prettier.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/prettier.yml/badge.svg?branch=master" alt="Prettier"></a>
   <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/vale.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/vale.yml/badge.svg?branch=master" alt="Vale"></a>
