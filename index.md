@@ -5,9 +5,9 @@ title: Home
 ---
 
 <p align="right">
-  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/htmlproofer.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/htmlproofer.yml/badge.svg" alt="HTMLProofer"></a>
-  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/prettier.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/prettier.yml/badge.svg" alt="Prettier"></a>
-  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/vale.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/vale.yml/badge.svg" alt="Vale"></a>
+  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/htmlproofer.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/htmlproofer.yml/badge.svg?branch=master" alt="HTMLProofer"></a>
+  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/prettier.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/prettier.yml/badge.svg?branch=master" alt="Prettier"></a>
+  <a href="https://github.com/rbong/rhcsa-open-guide/actions/workflows/vale.yml"><img src="https://github.com/rbong/rhcsa-open-guide/actions/workflows/vale.yml/badge.svg?branch=master" alt="Vale"></a>
 </p>
 
 <h1 class="no_toc">RHCSA Open Guide</h1>
