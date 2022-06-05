@@ -20,7 +20,7 @@ To check off items on the checklist, [log in to GitHub](https://github.com/login
 [fork this guide](https://github.com/rbong/rhcsa-open-guide/fork),
 and <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository" data-proofer-ignore>clone your fork</a>.
 
-This checklist is in the file `src/exam-checklist.md`.
+This checklist is in the file `exam-checklist.md`.
 You can edit the checklist in an editor of your choice.
 Fill out items by placing an `X` next to them, for example:
 
