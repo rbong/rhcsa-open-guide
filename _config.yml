@@ -9,6 +9,7 @@ description: Open guide for RHCSA (EX200).
 exclude:
   - docs
   - README.md
+  - CODE_OF_CONDUCT.md
   - LICENSE.txt
   - package.json
   - yarn.lock
