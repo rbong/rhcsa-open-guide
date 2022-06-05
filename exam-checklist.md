@@ -21,25 +21,25 @@ title: Exam checklist
 ## Using this checklist
 
 To check off items on the checklist, [log in to GitHub](https://github.com/login) and [fork this guide](https://github.com/rbong/rhcsa-open-guide/fork).
-Then, you may edit the checklist at the following location, replacing `<username>` with your username:
+Then, edit the checklist at the following location after replacing `<username>` with your username:
 
 ```
 https://github.com/<username>/rhcsa-open-guide/edit/master/exam-checklist.md
 ```
 
-You may fill out items by placing an `X` next to them, for example:
+Fill out items by placing an `X` next to them, for example:
 
 ```
 * [X] Complete item
 * [ ] Incomplete item
 ```
 
-It's recommended that you <a href="docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork" data-proofer-ignore>sync your fork</a> often to keep it up to date.
+You should <a href="docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork" data-proofer-ignore>sync your fork</a> often to keep it up to date.
 
 ## Red Hat course content checklists
 
 The checklists in this section contain material in Red Hat courses with prerequisite knowledge for the RHCSA exam.
-This section is to help you make sure you have learned all prerequisite knowledge.
+This section is to help you make sure you have all knowledge from these courses.
 
 Check off items once you feel you have learned this material.
 
