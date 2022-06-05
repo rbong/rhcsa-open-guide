@@ -1,0 +1,17 @@
+name: check-html
+on:
+  - push
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        name: Checkout
+      - uses: actions/jekyll-build-pages@v1
+        name: Build page with Jekkyl
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.0"
+      - name: Check HTML
+        run: bundle exec htmlproofer --assume-extension ./_site
