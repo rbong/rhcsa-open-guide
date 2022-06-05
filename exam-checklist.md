@@ -186,7 +186,7 @@ Configurations must persist after reboot without intervention.
 
 Check off items once you feel you can meet this criteria.
 
-**Understand and use essential tools**
+### Understand and use essential tools
 
   * [ ] Access a shell prompt and issue commands with correct syntax
 
@@ -210,7 +210,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Locate, read, and use system documentation including man, info, and files in /usr/share/doc
 
-**Create simple shell scripts**
+### Create simple shell scripts
 
   * [ ] Conditionally execute code (use of: if, test, [], etc.)
 
@@ -220,7 +220,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Processing output of shell commands within a script
 
-**Operate running systems**
+### Operate running systems
 
   * [ ] Boot, reboot, and shut down a system normally
 
@@ -242,7 +242,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Securely transfer files between systems
 
-**Configure local storage**
+### Configure local storage
 
   * [ ] List, create, delete partitions on MBR and GPT disks
 
@@ -256,7 +256,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Add new partitions and logical volumes, and swap to a system non-destructively
 
-**Create and configure file systems**
+### Create and configure file systems
 
   * [ ] Create, mount, unmount, and use vfat, ext4, and xfs file systems
 
@@ -270,7 +270,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Diagnose and correct file permission problems
 
-**Deploy, configure, and maintain systems**
+### Deploy, configure, and maintain systems
 
   * [ ] Schedule tasks using at and cron
 
@@ -284,7 +284,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Modify the system bootloader
 
-**Manage basic networking**
+### Manage basic networking
 
   * [ ] Configure IPv4 and IPv6 addresses
 
@@ -294,7 +294,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Restrict network access using firewall-cmd/firewall
 
-**Manage users and groups**
+### Manage users and groups
 
   * [ ] Create, delete, and modify local user accounts
 
@@ -304,7 +304,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Configure superuser access
 
-**Manage security**
+### Manage security
 
   * [ ] Configure firewall settings using firewall-cmd/firewalld
 
@@ -324,7 +324,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Diagnose and address routine SELinux policy violations
 
-**Manage containers**
+### Manage containers
 
   * [ ] Find and retrieve container images from a remote registry
 
