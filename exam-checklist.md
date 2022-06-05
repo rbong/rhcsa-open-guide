@@ -190,7 +190,7 @@ Check off items once you feel you can meet this criteria.
 
   * [ ] Access a shell prompt and issue commands with correct syntax
 
-  * [ ] Use input-output redirection (>, >>, |, 2>, etc.)
+  * [ ] Use input-output redirection (`>`, `>>`, `|`, `2>`, etc.)
 
   * [ ] Use grep and regular expressions to analyze text
 
