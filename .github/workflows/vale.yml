@@ -1,6 +1,8 @@
 name: Vale
 on:
   - push
+branding:
+  icon: edit-2
 jobs:
   lint:
     runs-on: ubuntu-latest
