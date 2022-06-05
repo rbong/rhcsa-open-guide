@@ -7,7 +7,7 @@
 
 This is an open study guide for becoming a [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa) (RHCSA)
 by passing the [EX200 exam from Red Hat](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam).
-It includes written lessons, exercises, and other reading material.
+It has written lessons, exercises, and other reading material.
 
 Read this guide on [GitHub Pages](http://rbong.github.io/rhcsa-open-guide).
 
