@@ -1,7 +1,7 @@
 # RHCSA Open Guide
 
 [![pages-build-deployment](https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/pages/pages-build-deployment)
-[![check-html](https://github.com/rbong/rhcsa-open-guide/actions/workflows/check-html.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/check-html.yml)
+[![verify-html](https://github.com/rbong/rhcsa-open-guide/actions/workflows/verify-html.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/verify-html.yml)
 [![lint-files](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-files.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-files.yml)
 [![lint-prose](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-prose.yml/badge.svg)](https://github.com/rbong/rhcsa-open-guide/actions/workflows/lint-prose.yml)
 

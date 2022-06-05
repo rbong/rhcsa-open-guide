@@ -1,8 +1,8 @@
-name: check-html
+name: verify-html
 on:
   - push
 jobs:
-  check:
+  verify:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -14,5 +14,5 @@ jobs:
           bundler-cache: true
       - name: Build
         run: bundle exec jekyll build
-      - name: Check HTML
+      - name: Verify HTML
         run: bundle exec htmlproofer --assume-extension ./_site
