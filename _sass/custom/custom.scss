@@ -1,3 +1,5 @@
+// float classes
+
 @each $media-query in map-keys($media-queries) {
   @for $i from 1 through length($spacers) {
     @include mq($media-query) {
@@ -12,6 +14,8 @@
   }
 }
 
+// position classes
+
 $positions: absolute, relative, fixed, static, sticky;
 
 @each $position in $positions {
@@ -20,8 +24,20 @@ $positions: absolute, relative, fixed, static, sticky;
   }
 }
 
+// z-index classes
+
 @for $i from 1 through 10 {
   .z-#{$i * 100} {
     z-index: #{$i * 100};
   }
+}
+
+// Fix lists inside task list items
+
+.main-content .task-list-item {
+  display: list-item;
+}
+
+.task-list-item > ul {
+  margin-left: $sp-5;
 }
